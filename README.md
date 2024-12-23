@@ -1,1 +1,1 @@
-(dibyakanti.github.io)[https://dibyakanti.github.io]
+[dibyakanti.github.io](https://dibyakanti.github.io)
