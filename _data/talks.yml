@@ -1,5 +1,11 @@
-- title: "Measuring the risk of solving fluid dynamics by neural nets"
+- title: "Measuring the Risk of Solving Fluid Dynamics by Neural Nets"
   event: "CFE-CM Statistics 2024"
   date: "2024-12-15"
   location: "King's College London, London, UK"
+  link: "/assets/slides/PINN_PPT_CFE_CM.pdf"
+
+- title: "Measuring the Risk of Solving Fluid Dynamics by Neural Nets"
+  event: "CIMIM Seminar"
+  date: "2024-12-12"
+  location: "The University of Manchester, Manchester, UK"
   link: "/assets/slides/PINN_PPT_CFE_CM.pdf"
