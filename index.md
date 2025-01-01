@@ -2,7 +2,7 @@
 layout: home
 ---
 
-<img style="float: left; width: 180px; margin-right: 25px; margin-bottom: 1000px; border-radius: 50%; object-fit: cover;" src="/assets/img/img.jpeg">
+<img style="float: left; width: 180px; margin-right: 25px; margin-bottom: 500px; border-radius: 50%; object-fit: cover;" src="/assets/img/img.jpeg">
 
 
 Hi, I am a first-year PhD student in Computer Science at the University of Manchester, under the joint supervision of [Prof. Anirbit Mukherjee](https://anirbit-ai.github.io) and [Prof. Alex Frangi](https://research.manchester.ac.uk/en/persons/alejandro-frangi).
