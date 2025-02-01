@@ -1,3 +1,15 @@
+- title: "Investigating the Ability of PINNs To Solve Burgers' PDE Near Finite-Time BlowUp"
+  event: "Euromech Colloquium on Data-Driven Fluid Dynamics / 2nd ERCOFTAC Workshop on Machine Learning for Fluid Dynamics"
+  date: "2025-04-02"
+  location: "London, UK"
+  # link: "/assets/slides/PINN_PPT_CFE_CM.pdf"
+
+- title: "Towards Size-Independent Generalization Bounds for Deep Operator Nets"
+  event: "18th INFORMS Computing Society (ICS) Conference"
+  date: "2025-03-15"
+  location: "Ontario, Canada"
+  # link: "/assets/slides/PINN_PPT_CFE_CM.pdf"
+
 - title: "Measuring the Risk of Solving Fluid Dynamics by Neural Nets"
   event: "CFE-CM Statistics 2024"
   date: "2024-12-15"

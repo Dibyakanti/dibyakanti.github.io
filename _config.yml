@@ -40,6 +40,7 @@ plugins:
 header_pages:
   - tabs/publications.md
   - tabs/talks.md
+  - tabs/services.md
   # - tabs/notes.md
 
 # Minima specific settings, which are only available from Minima 3.0 onward.
