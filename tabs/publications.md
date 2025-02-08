@@ -8,6 +8,8 @@ See [here](https://scholar.google.com/citations?user=4vbLax8AAAAJ&hl=en) for a f
 
 # Selected Publications :
 
+Note: (α-β) indicates alphabetical ordering
+
 <ul>
   {% for pub in site.data.publications %}
     <li>

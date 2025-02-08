@@ -1,12 +1,12 @@
 - title: "Towards Size-Independent Generalization Bounds for Deep Operator Nets"
-  authors: "Pulkit Gopalani, Sayar Karmakar, <strong>Dibyakanti Kumar</strong>, Anirbit Mukherjee"
+  authors: "(α-β) Pulkit Gopalani, Sayar Karmakar, <strong>Dibyakanti Kumar</strong>, Anirbit Mukherjee"
   venue: "TMLR"
   year: 2024
   link: "https://openreview.net/pdf?id=21kO0u6LN0"
   code_link: "https://github.com/Dibyakanti/Towards-Size-Independent-Generalization-Bounds-for-Deep-Operator-Nets"
 
 - title: "Investigating the Ability of PINNs to Solve Burgers' PDE Near Finite-Time Blow-Up"
-  authors: "<strong>Dibyakanti Kumar</strong>, Anirbit Mukherjee"
+  authors: "(α-β) <strong>Dibyakanti Kumar</strong>, Anirbit Mukherjee"
   venue: "IOP-MLST Journal"
   year: 2024
   link: "https://iopscience.iop.org/article/10.1088/2632-2153/ad51cd"
