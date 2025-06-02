@@ -2,7 +2,7 @@
   event: "Euromech Colloquium on Data-Driven Fluid Dynamics / 2nd ERCOFTAC Workshop on Machine Learning for Fluid Dynamics"
   date: "2025-04-02"
   location: "London, UK"
-  # link: "/assets/slides/PINN_PPT_CFE_CM.pdf"
+  link: "/assets/slides/PINN_PPT_EuroMech.pdf"
 
 - title: "Towards Size-Independent Generalization Bounds for Deep Operator Nets"
   event: "18th INFORMS Computing Society (ICS) Conference"
