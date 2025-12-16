@@ -1,3 +1,21 @@
+- course: "COMP36111 : Algorithms and Complexity"
+  role: "Teaching Assistant"
+  institution: "University of Manchester"
+  term: "Fall 2025"
+  description: "Guide students through problem sets and check assignments."
+
+- course: "COMP26120 : Algorithms and Data Structures"
+  role: "Teaching Assistant"
+  institution: "University of Manchester"
+  term: "Fall 2025"
+  description: "Guide students through problem sets and check assignments."
+
+- course: "COMP34111 : AI and Games"
+  role: "Teaching Assistant"
+  institution: "University of Manchester"
+  term: "Fall 2025"
+  description: "Help students with project work."
+
 - course: "COMP34312 : Mathematical Topics in Machine Learning"
   role: "Teaching Assistant"
   institution: "University of Manchester"

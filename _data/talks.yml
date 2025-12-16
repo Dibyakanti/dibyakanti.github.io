@@ -1,3 +1,9 @@
+- title: "Generalization Bounds for Solving Navier-Stokes PDE by Neural Nets"
+  event: "Surrogates and Dimension Reduction in Scientific Machine Learning"
+  date: "2025-09-10"
+  location: "Manchester, UK"
+  link: "/assets/slides/PINN_Rademacher_PPT.pdf"
+
 - title: "Investigating the Ability of PINNs To Solve Burgers' PDE Near Finite-Time BlowUp"
   event: "Euromech Colloquium on Data-Driven Fluid Dynamics / 2nd ERCOFTAC Workshop on Machine Learning for Fluid Dynamics"
   date: "2025-04-02"
