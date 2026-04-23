@@ -3,3 +3,26 @@
 ---
 
 @import "minima";
+
+.intro {
+  display: flex;
+  align-items: flex-start;
+  gap: 25px;
+}
+
+.profile-img {
+  width: 260px;
+  border-radius: 10px;
+}
+
+@media (max-width: 600px) {
+  .intro {
+    flex-direction: column;
+    align-items: center;
+    text-align: left;
+  }
+
+  .profile-img {
+    width: 80%;
+  }
+}
