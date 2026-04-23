@@ -1,3 +1,15 @@
+- course: "COMP11212 : Fundamentals of Computation"
+  role: "Teaching Assistant"
+  institution: "University of Manchester"
+  term: "Spring 2026"
+  description: "Conduct tutorial classes and check assignments."
+
+- course: "COMP64802 : Advanced Topics in Machine Learning"
+  role: "Teaching Assistant"
+  institution: "University of Manchester"
+  term: "Spring 2026"
+  description: "Helped create exams and lecture notes, and guided students through problem sets."
+
 - course: "COMP36111 : Algorithms and Complexity"
   role: "Teaching Assistant"
   institution: "University of Manchester"
