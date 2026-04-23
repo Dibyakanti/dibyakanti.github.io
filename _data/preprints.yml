@@ -1,3 +1,11 @@
+
+- title: "Generalization Bounds for Physics-Informed Neural Networks for the Incompressible Navier-Stokes Equations"
+  authors: "Sebastien Andre-Sloan, <strong>Dibyakanti Kumar</strong>, Alejandro F Frangi, Anirbit Mukherjee"
+  # venue: "arxiv"
+  year: 2026
+  link: "https://arxiv.org/abs/2603.23072"
+  # code_link: "https://github.com/Dibyakanti/Towards-Size-Independent-Generalization-Bounds-for-Deep-Operator-Nets"
+
 - title: "Langevin Monte-Carlo Provably Learns Depth Two Neural Nets at Any Size and Data"
   authors: "<strong>Dibyakanti Kumar</strong>, Samyak Jha, Anirbit Mukherjee"
   # venue: "arxiv"
