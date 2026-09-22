@@ -1,3 +1,9 @@
+- title: "Convergent Stochastic Training of Attention and Understanding LoRA"
+  authors: "Zhengkai Sun, <strong>Dibyakanti Kumar</strong>, Alejandro F Frangi, Anirbit Mukherjee, Mingfei Sun"
+  # venue: "arxiv"
+  year: 2026
+  link: "https://arxiv.org/abs/2605.07959"
+  # code_link: "https://github.com/Dibyakanti/Towards-Size-Independent-Generalization-Bounds-for-Deep-Operator-Nets"
 
 - title: "Generalization Bounds for Physics-Informed Neural Networks for the Incompressible Navier-Stokes Equations"
   authors: "Sebastien Andre-Sloan, <strong>Dibyakanti Kumar</strong>, Alejandro F Frangi, Anirbit Mukherjee"

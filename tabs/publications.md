@@ -8,7 +8,7 @@ See [here](https://scholar.google.com/citations?user=4vbLax8AAAAJ&hl=en) for a f
 
 Note: (α-β) indicates alphabetical ordering
 
-# Submitted :
+<!-- # Submitted :
 
 <ul>
   {% for pub in site.data.submitted %}
@@ -27,7 +27,7 @@ Note: (α-β) indicates alphabetical ordering
       {% endif %} 
     </li><br>
   {% endfor %}
-</ul>
+</ul> -->
 
 # Preprints :
 
